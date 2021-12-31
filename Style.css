@@ -1,0 +1,32 @@
+body {
+    font-size: 15pt;
+}
+h1{
+   font-size: 30pt;
+}
+.botan {
+  font-size: 15pt;
+  color: white;
+  background: green;
+}
+.bg{
+background-image: url(https://trepo.jp/wp-content/uploads/2020/11/125185819_373901983665479_3104200299520077830_n.jpg) ;
+background-size: cover;
+}
+  
+.main
+{
+   text-align: center;
+   padding: 180px;
+}
+.mozi
+{
+  font-size: 35px;
+}
+#waku {
+  font-size: 30px;
+  
+}
+.ho{
+  text-align: right;
+}
